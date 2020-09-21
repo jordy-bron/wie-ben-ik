@@ -1,0 +1,44 @@
+body {
+
+	background-color: lightblue;
+
+}
+
+button {
+	border : none;
+	color : white;
+	padding :15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display : inline-block;
+	font-size : 16px;
+	margin : 4px 2px;
+	cursor : pointer;
+}
+
+.buttonmotivatie {background-color:#008CBA;}
+.buttonontwikkelingsdoelen {background-color:#008CBA;}
+.buttonhome {background-color: #008CBA}
+
+
+img {
+	border: 2px solid #000;
+	border-radius: 4px;
+	padding: 0px;
+	width: 300px;
+	margin:: 4pc;
+}
+
+
+
+#motivatie {
+	width: 200px;
+	height:100px;
+	float: right;
+}
+
+#davincicollege{
+	width: 150px;
+	height: 150px;
+	float: right;
+}
